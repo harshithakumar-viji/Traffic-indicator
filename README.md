@@ -1,6 +1,6 @@
 Focused on learning exploratory data visualization.
 Outcome of the project, learnt:
-	How to visualize time series dat with line plots
+	How to visualize time series data with line plots
 	How to visualize correlations with scatter plots.
 	How to visualize frequency distributions with bar plots and histograms.
 	How to speed up our exploratory data visualization workflow with the pandas library.
